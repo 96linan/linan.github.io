@@ -25,7 +25,7 @@ News
 
 Research Interest
 ======
-My research interest focus on theory and applications of Neural Automated Machine Learning (AutoML), including:
+My research interest focus on theory and applications of Automated Machine Learning (AutoML), including:
 - Neural Architecture Search
 - Performance Predictor
 - Feature Selection
