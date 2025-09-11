@@ -15,9 +15,9 @@ redirect_from:
 
 News
 ======
-- One work about Performance Predictor for ENAS becomes $\textcolor{red}{ESI Highly Cited Paper}$.
-- Our work about Rank Performance Predictor for NAS is accepted by $\textcolor{red}{IJCAI-2025}$.
-- Our work about Performance Predictor for ENAS is accepted by $\textcolor{red}{TEVC}$.
+- One work about Performance Predictor for ENAS becomes <span style="color:red">ESI Highly Cited Paper<span style="color:red">.
+- Our work about Rank Performance Predictor for NAS is accepted by <span style="color:red">IJCAI-2025<span style="color:red">.
+- Our work about Performance Predictor for ENAS is accepted by <span style="color:red">TEVC<span style="color:red">.
 - Our work about Performance Predictor for ENAS is accepted by SWEVO.
 
 
