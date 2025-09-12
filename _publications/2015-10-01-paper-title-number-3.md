@@ -1,25 +1,7 @@
----
-title: "Paper Title Number 3"
-collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
----
+## Journal Papers
+1. Xiaotian Song, Han Ji, Jian Zhang, Jiyuan Liu, Shangce Gao, Yanan Sun,  
+“Online performance predictor for evolutionary neural architecture search,”  
+*IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2025.  
+DOI: 10.1109/TSMC.2025.3599175
 
----
-title: "Paper Title Number 3333"
-collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
----
+
