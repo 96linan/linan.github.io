@@ -12,14 +12,14 @@ main:
     url: /publications/
 
   - title: "Conference Publications"
-    url: /talks/    
+    url: /publications-c/    
 
   - title: "Supervision"
-    url: /teaching/    
+    url: /supervision/    
     
   - title: "Services"
-    url: /portfolio/
+    url: /services/
         
   - title: "Awards"
-    url: /year-archive/
+    url: /awards/
     
