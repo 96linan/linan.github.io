@@ -31,3 +31,4 @@ author_profile: true
 * Program Committee Member of CEC-2023
 * Program Committee Member of ICDM-2023
 * Program Committee Member of ICDM-2022
+* 中国计算机学会（CCF）会员
