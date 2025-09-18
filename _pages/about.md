@@ -17,6 +17,7 @@ He was selected for the inaugural China Association for Science and Technology (
 
 News
 ======
+- Our work about Generalizable MPQ is accepted by <span style="color:red">NeurIPS-2025<span style="color:red">.
 - One work about Performance Predictor for ENAS becomes <span style="color:red">ESI Highly Cited Paper<span style="color:red">.
 - Our work about Rank Performance Predictor for NAS is accepted by <span style="color:red">IJCAI-2025<span style="color:red">.
 - Our work about Performance Predictor for ENAS is accepted by <span style="color:red">TEVC<span style="color:red">.
