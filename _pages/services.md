@@ -20,12 +20,12 @@ author_profile: true
 ### 会议
 * International Conference on Machine Learning
 * International Conference on Learning Representations
-* The Conference on Annual Conference on Neural Information Processing Systems
+* Annual Conference on Neural Information Processing Systems
 * AAAI Conference on Artificial Intelligence
 
 ## 其它学术兼职
 * Editorial Board Members of Mathematics and Computer Science, 2025-Now
-* Session Chair of “Automated Multimodal Learning-Towards End-to-End Cross-Modal Intelligence” in WCCI-2026
+* Session Chair of “Automated Multimodal Learning-Towards End-to-End Cross-Modal Intelligence” in WCCI (IJCNN)-2026
 * Session Chair of “Neural Architecture Search's Theory, Algorithm and Application” in IJCNN-2025
 * Session Chair of “Neural Architecture Search: A Deep Evolutionary Optimization Perspective” in CEC-2025
 * Session Chair of “Evolutionary Deep Learning: From Theory to Application” in DOCS-2025
