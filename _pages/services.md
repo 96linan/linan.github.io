@@ -24,10 +24,11 @@ author_profile: true
 * AAAI Conference on Artificial Intelligence
 
 ## 其它学术兼职
+* Session Chair of “Multimedia-Oriented NeuraArchitecture Search for Efficient and ScalableMedia Analysis” in ICME-2026 (CCF-B)
 * Editorial Board Members of Mathematics and Computer Science, 2025-Now
-* Session Chair of “Automated Multimodal Learning-Towards End-to-End Cross-Modal Intelligence” in WCCI (IJCNN)-2026
-* Session Chair of “Neural Architecture Search's Theory, Algorithm and Application” in IJCNN-2025
-* Session Chair of “Neural Architecture Search: A Deep Evolutionary Optimization Perspective” in CEC-2025
+* Session Chair of “Automated Multimodal Learning-Towards End-to-End Cross-Modal Intelligence” in WCCI (IJCNN)-2026 (CCF-C)
+* Session Chair of “Neural Architecture Search's Theory, Algorithm and Application” in IJCNN-2025 (CCF-C)
+* Session Chair of “Neural Architecture Search: A Deep Evolutionary Optimization Perspective” in CEC-2025 (CAAI-C)
 * Session Chair of “Evolutionary Deep Learning: From Theory to Application” in DOCS-2025
 * Workshop Chair of “Advanced Architectural Design for Vision Task” in ICCVIT-2025
 * Program Committee Member of IJCNN-2023
