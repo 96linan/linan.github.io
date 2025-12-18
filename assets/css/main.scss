@@ -43,8 +43,7 @@
 ;
 @media (min-width: 64em) {
   .sidebar.sticky {
-    max-height: calc(100vh - 6rem);
-    overflow: auto;
-    padding-bottom: 2rem;
+    position: static !important;
+    top: auto !important;
   }
 }
