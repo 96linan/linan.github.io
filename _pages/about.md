@@ -17,17 +17,18 @@ He was selected for the inaugural China Association for Science and Technology (
 
 ## News
 
-<div style="max-height: 220px; overflow-y: auto;">
-
 - Our work about Performance Predictor for GFNAS is accepted by <span style="color:red">TEVC</span>. Congratulations to Aohan!
 - Our work about Generalizable MPQ is accepted by <span style="color:red">NeurIPS-2025</span>.
 - One work about Performance Predictor for ENAS becomes <span style="color:red">ESI Highly Cited Paper</span>.
 - Our work about Rank Performance Predictor for NAS is accepted by <span style="color:red">IJCAI-2025</span>.
 - Our work about Performance Predictor for ENAS is accepted by <span style="color:red">TEVC</span>.
+
+<details>
+<summary><b>More news</b></summary>
+
 - Our work about Performance Predictor for ENAS is accepted by SWEVO.
 
-</div>
-
+</details>
 
 
 
