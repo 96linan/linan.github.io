@@ -10,9 +10,8 @@ redirect_from:
 📌 He was selected for the inaugural China Association for Science and Technology (CAST) Young Talent Support Program's PhD Special Project. To date, he has published 20 papers in prestigious journals and conferences including ACM CSUR (IF: 28.06), NeurIPS, IJCAI, IEEE TEVC, IEEE TFS, and IEEE TCYB (including 4 ESI highly cited papers, 1 hot paper, and 3 research frontier papers). He serves as a reviewer for over 30 SCI/EI journals. Additionally, he has organized sessions and workshops on evolutionary architecture search at multiple international conferences as Session/Workshop Chair (e.g., ICME, IJCNN, and CEC).
 
 - Lecturer
-- School of Computer and Information Technology, Institute of Big Data Science and Industry
-- Shanxi University, No.92, Wucheng Road, Taiyuan, Shanxi Province, China
-- 🤖I am happy to mentor proactive and ambitious undergraduate students to publish high-quality academic papers as first authors. 我非常乐意指导积极进取、主动投入的本科生以学生一作身份发表高质量学术论文。
+- School of Computer and Information Technology, Institute of Big Data Science and Industry, Shanxi University, No.92, Wucheng Road, Taiyuan, Shanxi Province, China
+- 🤖I am happy to mentor proactive and ambitious undergraduate students to publish **high-quality academic papers as first authors**. 我非常乐意指导积极进取、主动投入的本科生以**第一作者身份发表高质量学术论文**。
 
 
 
@@ -34,7 +33,7 @@ redirect_from:
 
 
 ## ⭐ Research Interest
-======
+
 My research interest focus on theory and applications of Automated Machine Learning (AutoML), including:
 - Neural Architecture Search
 - Performance Predictor
