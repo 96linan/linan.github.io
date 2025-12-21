@@ -17,18 +17,19 @@ He was selected for the inaugural China Association for Science and Technology (
 
 ## News
 
-- Our work about Performance Predictor for GFNAS is accepted by <span style="color:red">TEVC</span>. Congratulations to Aohan!
-- Our work about Generalizable MPQ is accepted by <span style="color:red">NeurIPS-2025</span>.
-- One work about Performance Predictor for ENAS becomes <span style="color:red">ESI Highly Cited Paper</span>.
-- Our work about Rank Performance Predictor for NAS is accepted by <span style="color:red">IJCAI-2025</span>.
-- Our work about Performance Predictor for ENAS is accepted by <span style="color:red">TEVC</span>.
 
-<details>
-<summary><b>More news</b></summary>
+<div style="max-height:220px; overflow-y:auto; padding-right:8px;">
 
-- Our work about Performance Predictor for ENAS is accepted by SWEVO.
+<ul>
+  <li>Our work about Performance Predictor for GFNAS is accepted by <span style="color:red">TEVC</span>. Congratulations to Aohan!</li>
+  <li>Our work about Generalizable MPQ is accepted by <span style="color:red">NeurIPS-2025</span>.</li>
+  <li>One work about Performance Predictor for ENAS becomes <span style="color:red">ESI Highly Cited Paper</span>.</li>
+  <li>Our work about Rank Performance Predictor for NAS is accepted by <span style="color:red">IJCAI-2025</span>.</li>
+  <li>Our work about Performance Predictor for ENAS is accepted by <span style="color:red">TEVC</span>.</li>
+  <li>Our work about Performance Predictor for ENAS is accepted by SWEVO.</li>
+</ul>
 
-</details>
+</div>
 
 
 
