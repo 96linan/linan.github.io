@@ -11,7 +11,7 @@ redirect_from:
 
 - Lecturer
 - School of Computer and Information Technology, Institute of Big Data Science and Industry, Shanxi University, No.92, Wucheng Road, Taiyuan, Shanxi Province, China
-- 🤖I am happy to mentor proactive and ambitious undergraduate students to publish **high-quality academic papers as first authors**. 我非常乐意指导积极进取、主动投入的本科生以**第一作者身份发表高质量学术论文**。
+- 🤖I am happy to mentor proactive and ambitious undergraduate students to publish **high-quality academic papers as first author**. 我非常乐意指导积极进取、主动投入的本科生以**第一作者身份发表高质量学术论文**。
 
 
 
