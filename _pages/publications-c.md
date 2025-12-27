@@ -4,7 +4,7 @@ title: "Conference Publications"
 permalink: /publications-c/
 author_profile: true
 ---
-*indicating the corresponding author
+*indicating the corresponding author/#indicating the equal contribution
 
 1. **Li Nan**, Su Yonghui, Ma Lianbo. Efficient and Generalizable Mixed-Precision Quantization via Topological Entropy [C]. The Thirty-ninth Annual Conference on Neural Information Processing Systems, 2025. (CCF-A) 
 2. **Li Nan**, Xue Bing, Ma Lianbo, Zhang Mengjie. Transferable Relativistic Predictor: Mitigating Cross-Task Cold-Start Issue in NAS [C]. International Joint Conference on Artificial Intelligence, 2025. (CCF-A).
