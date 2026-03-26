@@ -22,7 +22,7 @@ redirect_from:
 
 <ul>
   <li>Four papers are accepted by <span style="color:red">IJCNN-2026</span>. Congratulations to the four outstanding undergraduates</li>
-  <li>Our book about Performance Predictor in ENAS is published by <span style="color:red">_Springer_</span>. This is the first monograph on performance predictors in the ENAS field</li>
+  <li>Our book about Performance Predictor in ENAS is published by <span style="color:red">Springer</span>. This is the first monograph on performance predictors in the ENAS field</li>
   <li>Our work about Performance Predictor for GFNAS is accepted by <span style="color:red">TEVC</span>. Congratulations to Aohan!</li>
   <li>Our work about Generalizable MPQ is accepted by <span style="color:red">NeurIPS-2025</span>.</li>
   <li>One work about Performance Predictor for ENAS becomes <span style="color:red">ESI Highly Cited Paper</span>.</li>
