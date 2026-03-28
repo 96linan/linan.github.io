@@ -21,6 +21,7 @@ redirect_from:
 <div style="max-height:220px; overflow-y:auto; padding-right:8px;">
 
 <ul>
+  <li>Our work aboutSymbolic Regression for Predictor is accepted by <span style="color:red">TEVC</span>. </li>
   <li>Four papers are accepted by <span style="color:red">IJCNN-2026</span>. Congratulations to the four outstanding undergraduates</li>
   <li>Our book about Performance Predictor in ENAS is published by <span style="color:red">Springer</span>. This is the first monograph on performance predictors in the ENAS field</li>
   <li>Our work about Performance Predictor for GFNAS is accepted by <span style="color:red">TEVC</span>. Congratulations to Aohan!</li>
