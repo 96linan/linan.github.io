@@ -12,7 +12,7 @@ redirect_from:
 - Lecturer
 - School of Computer and Information Technology, Institute of Big Data Science and Industry, Shanxi University, No.92, Wucheng Road, Taiyuan, Shanxi Province, China
 - 🤖 I am happy to mentor proactive and ambitious undergraduate students to publish **high-quality academic papers as first author**. 我非常乐意指导积极进取、主动投入的本科生以**第一作者身份发表高质量学术论文**。
-- ✨Don't be shy, have a try! Send me an email! [lnnner[at]163.com or linan10[at]sxu.edu.cn]
+- ✨**Don't be shy, have a try!** Send me an email! [lnnner[at]163.com or linan10[at]sxu.edu.cn]
 
 
 
@@ -21,7 +21,7 @@ redirect_from:
 <div style="max-height:220px; overflow-y:auto; padding-right:8px;">
 
 <ul>
-  <li>Our work aboutSymbolic Regression for Predictor is accepted by <span style="color:red">TEVC</span>. </li>
+  <li>Our work about Symbolic Regression for Predictor is accepted by <span style="color:red">TEVC</span>. </li>
   <li>Four papers are accepted by <span style="color:red">IJCNN-2026</span>. Congratulations to the four outstanding undergraduates</li>
   <li>Our book about Performance Predictor in ENAS is published by <span style="color:red">Springer</span>. This is the first monograph on performance predictors in the ENAS field</li>
   <li>Our work about Performance Predictor for GFNAS is accepted by <span style="color:red">TEVC</span>. Congratulations to Aohan!</li>
