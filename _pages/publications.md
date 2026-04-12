@@ -7,7 +7,7 @@ author_profile: true
 *indicating the corresponding author/#indicating the equal contribution
 
 ## Authored Book/Chapter
-1. **Li Nan**, Ma Lianbo, Qian Yuhua, Xue Bing, Zhang Mengjie. Performance Predictor inEvolutionary Neural Architecture Search: Methods and Applications[M]. Singapore:Springer, Hardcover ISBN:978-981-95-9154-1,2026. (<span style="color:purple">The first academic monograph on performance predictors in evolutionary neural architecture search</span>)
+1. **Li Nan**, Ma Lianbo, Qian Yuhua, Xue Bing, Zhang Mengjie. Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications[M]. Singapore:Springer, Hardcover ISBN:978-981-95-9154-1,2026. (<span style="color:purple">The first academic monograph on performance predictors in evolutionary neural architecture search</span>)
 
 ## English Journal Papers
 1. **Li Nan**, Bing Xue, Qi Chen, Lianbo Ma, Xingwei Wang, Min Huang, Mengjie Zhang. Evolutionary Zero-Shot Proxy in Various Evaluation Scenarios: A Symbolic Learning Perspective [J]. IEEE Transactions on Evolutionary Computation, 2025.
