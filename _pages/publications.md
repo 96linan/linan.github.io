@@ -6,6 +6,7 @@ author_profile: true
 ---
 *indicating the corresponding author/#indicating the equal contribution
 
+<div markdown="1" style="text-align: justify;">
 ## Authored Book/Chapter
 1. **Li Nan**, Ma Lianbo, Qian Yuhua, Xue Bing, Zhang Mengjie. Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications[M]. Singapore:Springer, Hardcover ISBN:978-981-95-9154-1,2026. (<span style="color:purple">The first academic monograph on performance predictors in evolutionary neural architecture search</span>)
 
@@ -26,3 +27,5 @@ author_profile: true
 ## Chinese Journal Papers
 1. **李楠**,贺美蕊,马连博.进化深度学习的研究现状与进展[J].信息与控制,2024,53(02):129-153. (<span style="color:red">入选科技期刊双语传播工程</span>)
 2. 马连博,**李楠**,程适.进化神经网络原理、模型及方法综述[J].陕西师范大学学报(自然科学版),2021,49(05):30-38+133.DOI:10.15983/j.cnki.jsnu.2021.01.022. (<span style="color:red">卓越论文奖</span>)
+
+</div>
