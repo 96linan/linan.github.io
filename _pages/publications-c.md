@@ -6,7 +6,7 @@ author_profile: true
 ---
 *indicating the corresponding author/#indicating the equal contribution
 
-<div style="text-align: justify;">
+<div markdown="1" style="text-align: justify;">
 
 1. Yuan Xinyi, **Li Nan***, Jiao Ruwang, Zhang Yayu, Wei Zhifang. Embodied Multimodal Neural Architecture Search System for Low-Resolution Image Classification [C]// International Joint Conference on Neural Networks (IJCNN), 2026. (CCF-C)
 2. Chen Sisi, **Li Nan***, Jiao Ruwang. Learning Graph Structures via Sparse Training with Adaptive Edge Growth [C]// International Joint Conference on Neural Networks (IJCNN), 2026. (CCF-C)
