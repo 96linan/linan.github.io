@@ -11,7 +11,7 @@ author_profile: true
 1. **Li Nan**, Ma Lianbo, Qian Yuhua, Xue Bing, Zhang Mengjie. Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications[M]. Singapore:Springer, Hardcover ISBN:978-981-95-9154-1,2026. (<span style="color:purple">The first academic monograph on performance predictors in evolutionary neural architecture search</span>)
 
 ## English Journal Papers
-1. **Li Nan**, Bing Xue, Qi Chen, Lianbo Ma, Xingwei Wang, Min Huang, Mengjie Zhang. Evolutionary Zero-Shot Proxy in Various Evaluation Scenarios: A Symbolic Learning Perspective [J]. IEEE Transactions on Evolutionary Computation, 2025.
+1. **Li Nan**, Bing Xue, Qi Chen, Lianbo Ma, Xingwei Wang, Min Huang, Mengjie Zhang. Evolutionary Zero-Shot Proxy in Various Evaluation Scenarios: A Symbolic Learning Perspective [J]. IEEE Transactions on Evolutionary Computation, 2026.
 2. Mei Aohan, **Li Nan**, Ma Lianbo, Gao Kaizhou, Huang Min, Xue, Bing, Jin Yaochu. Binary-to-Decimal Encoding-Based Performance Predictor for Evolutionary Graph Fusion Architecture Search and Applications to Medical Data [J]. IEEE Transactions on Evolutionary Computation, 2025.
 3. **Li Nan**, Ma Lianbo, Yu Guo, Xue Bing, Zhang Mengjie, Jin Yaochu. Survey on evolutionary deep learning: Principles, algorithms, applications, and open issues[J]. ACM Computing Surveys, 2024, 56(2): 1-34. (IF: 28.06, <span style="color:red">Highly Cited Paper (TOP 1% worldwide)</span> and also <span style="color:red">Research Frontier Paper (ONLY one per issue)</span>)
 4. **Li Nan**, Xue Bing, Ma Lianbo, Zhang Mengjie. Automatic Fuzzy Architecture Design for Defect Detection via Classifier-assisted Multiobjective Optimization Approach [J]. IEEE Transactions on Evolutionary Computation, 2025.
