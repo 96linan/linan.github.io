@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<div markdown="1" style="text-align: justify;">
+
 📌 He was selected for the inaugural China Association for Science and Technology (CAST) Young Talent Support Program's PhD Special Project. To date, he has published 20 papers in prestigious journals and conferences including ACM CSUR (IF: 28.06), NeurIPS, IJCAI, IEEE TEVC, IEEE TFS, and IEEE TCYB (including 4 ESI highly cited papers, 1 hot paper, and 3 research frontier papers). He serves as a reviewer for over 30 SCI/EI journals. Additionally, he has organized sessions and workshops on evolutionary architecture search at multiple international conferences as Session/Workshop Chair (e.g., ICME, IJCNN, and CEC).
 
 - Lecturer
@@ -45,4 +47,4 @@ My research interest focus on theory and applications of Automated Machine Learn
 - Ordinal Learning
 - Evolutionary Computation
 
-
+</div>
