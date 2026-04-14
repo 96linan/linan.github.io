@@ -9,7 +9,7 @@ author_profile: true
 <div markdown="1" style="text-align: justify;">
   
 ## Book
-1. **Li Nan**, Ma Lianbo, Qian Yuhua, Xue Bing, Zhang Mengjie. Performance Predictor inEvolutionary Neural Architecture Search: Methods and Applications[M]. Singapore:Springer, Hardcover ISBN:978-981-95-9154-1,2026. (The first academic monograph on performance predictors in evolutionary neural architecture search)
+1. **Li Nan**, Ma Lianbo, Qian Yuhua, Xue Bing, Zhang Mengjie. Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications[M]. Singapore:Springer, Hardcover ISBN:978-981-95-9154-1,2026. (The first academic monograph on performance predictors in evolutionary neural architecture search)
 
 
 ## Journal/Conference Papers
