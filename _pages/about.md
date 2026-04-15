@@ -9,12 +9,12 @@ redirect_from:
 
 <div markdown="1" style="text-align: justify;">
 
-📌 He was selected for the inaugural China Association for Science and Technology (CAST) Young Talent Support Program's PhD Special Project. To date, he has published 20 papers in prestigious journals and conferences including ACM CSUR (IF: 28.06), NeurIPS, IJCAI, IEEE TEVC, IEEE TFS, and IEEE TCYB (including 4 ESI highly cited papers, 1 hot paper, and 3 research frontier papers). He serves as a reviewer for over 30 SCI/EI journals. Additionally, he has organized sessions and workshops on evolutionary architecture search at multiple international conferences as Session/Workshop Chair (e.g., ICME, IJCNN, and CEC).
+📌 He was selected for the inaugural China Association for Science and Technology (CAST) Young Talent Support Program's PhD Special Project. To date, he has published 20 papers in prestigious journals and conferences including ACM CSUR (IF: 28.06), NeurIPS, IJCAI, TEVC, TFS, TNNLS and TCYB (including 4 ESI highly cited papers, 1 hot paper, and 3 research frontier papers). He serves as a reviewer for over 30 SCI/EI journals. Additionally, he has organized sessions, issues and workshops on evolutionary architecture search at multiple international journals/conferences (e.g., ASEJ, ICME, BIBM, IJCNN, and CEC).
 
 - Lecturer
 - School of Computer and Information Technology, Institute of Big Data Science and Industry, Shanxi University, No.92, Wucheng Road, Taiyuan, Shanxi Province, China
 - 🤖 I am happy to mentor proactive and ambitious undergraduate students to publish **high-quality academic papers as first author**. 我非常乐意指导积极进取、主动投入的本科生以**第一作者身份发表高质量学术论文**。
-- ✨**Don't be shy, have a try!** Send me an email! [lnnner[at]163.com or linan10[at]sxu.edu.cn]
+- ✨**Don’t be shy, have a try! Drop me an email and let’s make something exciting happen.** [lnnner[at]163.com or linan10[at]sxu.edu.cn]
 
 
 
