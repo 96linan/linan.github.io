@@ -24,6 +24,8 @@ author_profile: true
 * AAAI Conference on Artificial Intelligence
 
 ## 其它学术兼职
+* Associate Editor of Complex & Intelligent Systems: 2026-Now
+* Gust Editor of “CMC-Computers Materials & Continua” in 2026
 * Session Chair of “Multimedia-Oriented NeuraArchitecture Search for Efficient and ScalableMedia Analysis” in ICME-2026 (CCF-B)
 * Editorial Board Members of Mathematics and Computer Science, 2025-Now
 * Session Chair of “Automated Multimodal Learning-Towards End-to-End Cross-Modal Intelligence” in WCCI (IJCNN)-2026 (CCF-C)
