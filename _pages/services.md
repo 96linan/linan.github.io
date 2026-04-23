@@ -8,15 +8,18 @@ author_profile: true
 
 ## 部分期刊/会议审稿人
 ### 期刊
-* IEEE Transactions on Evolutionary Computation
-* IEEE Transactions on Fuzzy Systems
-* IEEE Transactions on Neural Networks and Learning Systems
-* IEEE Transactions on Cybernetics
-* IEEE Transactions on Artificial Intelligence
-* IEEE Transactions on Intelligent Transportation Systems
-* IEEE Transactions on Consumer Electronics
-* IEEE Computational Intelligence Magazine
-  
+<div style="max-height:220px; overflow-y:auto; padding-right:8px;"> 
+  <ul> 
+    <li>* IEEE Transactions on Evolutionary Computation</li>
+    <li>* IEEE Transactions on Fuzzy Systems</li>
+    <li>* IEEE Transactions on Neural Networks and Learning Systems</li>
+    <li>* IEEE Transactions on Cybernetics</li>
+    <li>* IEEE Transactions on Artificial Intelligence</li>
+    <li>* IEEE Transactions on Intelligent Transportation Systems</li>
+    <li>* IEEE Transactions on Consumer Electronics</li>
+    <li>* IEEE Computational Intelligence Magazine</li>
+  </ul> 
+</div>
 ### 会议
 * International Conference on Machine Learning
 * International Conference on Learning Representations
