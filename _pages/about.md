@@ -22,6 +22,7 @@ redirect_from:
 
 <div style="max-height:220px; overflow-y:auto; padding-right:8px;"> 
   <ul> 
+    <li>One paper about MPQ is accepted by <span style="color:red">ICML-2025</span>. Congratulations to Yonghui</li> 
     <li>Nan Li is invited as <span style="color:red"> AE of Complex & Intelligent Systems (SCI Q1)</span>.</li>
     <li>Our work about Symbolic Regression for Predictor is accepted by <span style="color:red">TEVC</span>. </li> 
     <li>Four papers are accepted by <span style="color:red">IJCNN-2026</span>. Congratulations to the four outstanding undergraduates</li> 
