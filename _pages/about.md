@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 <div markdown="1" style="text-align: justify;">
-
-📌 He was selected for the inaugural China Association for Science and Technology (CAST) Young Talent Support Program's PhD Special Project. To date, he has published 20 papers in prestigious journals and conferences including ACM CSUR (IF: 28.06), NeurIPS, IJCAI, TEVC, TFS, TNNLS and TCYB (including 4 ESI highly cited papers, 1 hot paper, and 3 research frontier papers). He serves as a reviewer for over 30 SCI/EI journals. Additionally, he has organized sessions, issues and workshops on evolutionary architecture search at multiple international journals/conferences (e.g., ASEJ, ICME, BIBM, IJCNN, and CEC).
+## 📌 About Me
+He was selected for the inaugural China Association for Science and Technology (CAST) Young Talent Support Program's PhD Special Project. To date, he has published 20 papers in prestigious journals and conferences including ACM CSUR (IF: 28.06), TEVC, TFS, TNNLS, TCYB, NeurIPS, ICML and IJCAI (including 4 ESI highly cited papers, 1 hot paper, and 3 research frontier papers). He serves as a reviewer for over 30 SCI/EI journals. Additionally, he has organized sessions, issues and workshops on evolutionary architecture search at multiple international journals/conferences (e.g., ASEJ, ICME, BIBM, IJCNN, and CEC).
 
 - Lecturer
 - School of Computer and Information Technology, Institute of Big Data Science and Industry, Shanxi University, No.92, Wucheng Road, Taiyuan, Shanxi Province, China
