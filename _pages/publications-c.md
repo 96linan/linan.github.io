@@ -4,16 +4,16 @@ title: "Conference Publications"
 permalink: /publications-c/
 author_profile: true
 ---
-*indicating the corresponding author/#indicating the equal contribution
++indicating the corresponding author/#indicating the equal contribution
 
 <div markdown="1" style="text-align: justify;">
 
-1. Lianbo Ma, Yonghui Su, **Nan Li***, Xingwei Wang. No Retraining at Edge: Efficient Resource-Aware Mixed-Precision Quantization via Federated Supernet Learning [C]// International Conference on Machine Learning (ICML), 2026. (CCF-A)
+1. Lianbo Ma, Yonghui Su, **Nan Li**+, Xingwei Wang+. No Retraining at Edge: Efficient Resource-Aware Mixed-Precision Quantization via Federated Supernet Learning [C]// International Conference on Machine Learning (ICML), 2026. (CCF-A)
 
-2. Yuan Xinyi, **Li Nan***, Jiao Ruwang, Zhang Yayu, Wei Zhifang. Embodied Multimodal Neural Architecture Search System for Low-Resolution Image Classification [C]// International Joint Conference on Neural Networks (IJCNN), 2026. (CCF-C)
-3. Chen Sisi, **Li Nan***, Jiao Ruwang. Learning Graph Structures via Sparse Training with Adaptive Edge Growth [C]// International Joint Conference on Neural Networks (IJCNN), 2026. (CCF-C)
-4. Hu Boran, **Li Nan***, Jiao Ruwang, Zhang Yayu, Yang Cuie, Wei Zhifang. SmartDyGNN: Dynamic Sparse Training for GNNs via Structural and Gradient Fusion [C]// The International Joint Conference on Neural Networks (IJCNN), 2026. (CCF-C) 
-5. Zhou Yikang, **Li Nan***, Jiao Ruwang. Adaptive Bi-Directional Asymmetric Flip and Multi-Criteria Knowledge Transfer Strategy in Multitask Framework for High-Dimensional Feature Selection [C]//  International Joint Conference on Neural Networks (IJCNN), 2026. (CCF-C) 
+2. Yuan Xinyi, **Li Nan**+, Jiao Ruwang, Zhang Yayu, Wei Zhifang. Embodied Multimodal Neural Architecture Search System for Low-Resolution Image Classification [C]// International Joint Conference on Neural Networks (IJCNN), 2026. (CCF-C)
+3. Chen Sisi, **Li Nan**+, Jiao Ruwang. Learning Graph Structures via Sparse Training with Adaptive Edge Growth [C]// International Joint Conference on Neural Networks (IJCNN), 2026. (CCF-C)
+4. Hu Boran, **Li Nan**+, Jiao Ruwang, Zhang Yayu, Yang Cuie, Wei Zhifang. SmartDyGNN: Dynamic Sparse Training for GNNs via Structural and Gradient Fusion [C]// The International Joint Conference on Neural Networks (IJCNN), 2026. (CCF-C) 
+5. Zhou Yikang, **Li Nan**+, Jiao Ruwang. Adaptive Bi-Directional Asymmetric Flip and Multi-Criteria Knowledge Transfer Strategy in Multitask Framework for High-Dimensional Feature Selection [C]//  International Joint Conference on Neural Networks (IJCNN), 2026. (CCF-C) 
 6. **Li Nan**, Su Yonghui, Ma Lianbo. Efficient and Generalizable Mixed-Precision Quantization via Topological Entropy [C]. The Thirty-ninth Annual Conference on Neural Information Processing Systems, 2025. (CCF-A) 
 7. **Li Nan**, Xue Bing, Ma Lianbo, Zhang Mengjie. Transferable Relativistic Predictor: Mitigating Cross-Task Cold-Start Issue in NAS [C]. International Joint Conference on Artificial Intelligence, 2025. (CCF-A).
 8. **Li Nan**, He Meirui, Mei Aohan, Wu Zhicheng, Zhang Tian, Jiao Ruwang. Ranking-aware Predictor-assisted Automatic Architecture Design for Biomedical Image Segmentation [C]. IEEE International Conference on Bioinformatics and Biomedicine, 2025. (CCF-B).
