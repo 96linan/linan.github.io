@@ -20,15 +20,20 @@ author_profile: true
     <li>IEEE Computational Intelligence Magazine</li>
   </ul> 
 </div>
+
 ### 会议
 * ICML
+* CVPR
 * ICLR
 * NeurIPS
 * AAAI
+* ECCV
 
 ## 其它学术兼职
 <div style="max-height:220px; overflow-y:auto; padding-right:8px;"> 
   <ul> 
+<li>中国自动化学会计算智能及其应用专业委员会委员 (2026)</li> 
+<li>中国自动化学会（CAA）会员 (2026)</li>    
 <li>Gust Editor of “Automated Software Engineering” in 2026</li>
 <li>专题副主编 “西安邮电大学学报” in 2026</li>
 <li>Workshop Organizer of “AutoML for Medical Data Analysis and Healthcare Intelligence” in BIBM-2026 (CCF-B)</li>
@@ -46,6 +51,6 @@ author_profile: true
 <li>Program Committee Member of CEC-2023</li>
 <li>Program Committee Member of ICDM-2023</li>
 <li>Program Committee Member of ICDM-2022</li>
-<li>中国计算机学会（CCF）会员</li>
+<li>中国计算机学会（CCF）会员 (2025)</li>
   </ul> 
 </div>
