@@ -12,6 +12,12 @@ redirect_from:
 ## 📌About Me
 
 <div style="line-height:1.75; font-size:16px; text-align:justify;">
+<details style="margin-top:18px; padding:14px 18px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
+<summary style="cursor:pointer; font-weight:600; color:#2563eb; outline:none;">
+🌐 英文简介 / English Version
+</summary>
+
+<div style="margin-top:14px; color:#374151;">
 
 <p>
 Nan Li is a Lecturer at the School of Artificial Intelligence and the Institute of Big Data Science and Industry, Shanxi University. He was selected for the Doctoral Young Talent Support Program of the China Association for Science and Technology (CAST). His research interests mainly include Automated Machine Learning, Neural Architecture Search, and Performance Predictors. He has published over 30 papers in leading journals and conferences, including ACM CSUR, IEEE TEVC, IEEE TFS, IEEE TCYB, IEEE TNNLS, NeurIPS, ICML, and IJCAI. His publications include 5 ESI Highly Cited Papers, 1 ESI Hot Paper, and 3 Research Frontier Papers. He is also the first author of the Springer monograph <em>Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications</em>, the first academic book dedicated to performance predictors in evolutionary neural architecture search.
@@ -20,6 +26,10 @@ Nan Li is a Lecturer at the School of Artificial Intelligence and the Institute 
 <p>
 He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em> and Editorial Board Member of <em>Mathematics and Computer Science</em>. He has also served as Guest Editor for <em>Automated Software Engineering</em> and <em>CMC–Computers, Materials & Continua</em>, and as Special Issue Associate Editor for the <em>Journal of Xi’an University of Posts and Telecommunications</em>. He has organized special sessions and workshops for BIBM 2026, ICME 2026, IJCNN 2026, IJCNN 2025, CEC 2025, DOCS 2025, and ICCVIT 2025, and serves as a Program Committee member for IJCNN, CEC, ICDM, ICML, and IJCAI. He has served as a reviewer for more than ten IEEE Transactions journals and for top-tier conferences including ICML, CVPR, ICLR, NeurIPS, AAAI, and ECCV. He is a Committee Member of the Technical Committee on Computational Intelligence and Applications of CAA, and a member of CAA and CCF. His research achievements have been recognized by the Bilingual Communication Project for Scientific Journals, and the Outstanding Paper Award of the <em>Journal of Shaanxi Normal University (Natural Science Edition)</em>.
 </p>
+
+</div>
+</details>
+
 
 <details style="margin-top:18px; padding:14px 18px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
 <summary style="cursor:pointer; font-weight:600; color:#2563eb; outline:none;">
