@@ -14,7 +14,7 @@ redirect_from:
 <div style="line-height:1.75; font-size:16px; text-align:justify;">
 <details style="margin-top:18px; padding:14px 18px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
 <summary style="cursor:pointer; font-weight:600; color:#2563eb; outline:none;">
-🌐 英文简介 / English Version
+🪄 英文简介 / English Version
 </summary>
 
 <div style="margin-top:14px; color:#374151;">
@@ -33,7 +33,7 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 
 <details style="margin-top:18px; padding:14px 18px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
 <summary style="cursor:pointer; font-weight:600; color:#2563eb; outline:none;">
-🌐 中文简介 / Chinese Version
+🌸 中文简介 / Chinese Version
 </summary>
 
 <div style="margin-top:14px; color:#374151;">
