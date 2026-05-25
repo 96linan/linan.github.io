@@ -1,0 +1,15 @@
+# Optional manual whitelist. Add scholars you always want to track.
+# Matching accepts name, OpenAlex author id, or ORCID.
+- name: "Yaochu Jin"
+- name: "Bing Xue"
+- name: "Mengjie Zhang"
+- name: "Yuhui Shi"
+- name: "Kalyanmoy Deb"
+- name: "Xin Yao"
+- name: "Hisao Ishibuchi"
+- name: "Kay Chen Tan"
+- name: "Jun Wang"
+- name: "Marios M. Polycarpou"
+- name: "Yann LeCun"
+- name: "Yoshua Bengio"
+- name: "Geoffrey Hinton"

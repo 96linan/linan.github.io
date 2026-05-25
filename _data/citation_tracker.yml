@@ -1,0 +1,8 @@
+# Thresholds used by scripts/track_big_name_citations.py
+min_author_citations: 10000
+min_author_works: 80
+min_author_h_index: 35
+max_citing_works_per_paper:
+since_year:
+sleep_seconds: 0.10
+mailto: lnn18003x@gmail.com
