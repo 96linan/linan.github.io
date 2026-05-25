@@ -11,12 +11,7 @@ redirect_from:
   
 ## 📌About Me
 
-<p style="margin: 8px 0 18px 0;">
-  <a href="https://scholar.google.com/citations?user=SeO0JUwAAAAJ&hl=zh-CN" target="_blank" rel="noopener">
-    <img src="/assets/images/scholar_citations.svg" alt="Google Scholar citations" style="vertical-align:middle;">
-  </a>
-  <a href="/big-name-citations/" style="margin-left:8px; font-size:14px;">Big-name citing papers</a>
-</p>
+
 
 <div style="line-height:1.75; font-size:16px; text-align:justify;">
 <details style="margin-top:18px; padding:14px 18px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
