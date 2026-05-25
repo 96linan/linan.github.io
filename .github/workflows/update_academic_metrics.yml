@@ -1,0 +1,26 @@
+name: Update academic metrics
+
+on:
+  schedule:
+    - cron: "0 2 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - run: pip install requests pyyaml beautifulsoup4
+      - name: Update Google Scholar badge
+        run: python scripts/update_scholar_badge.py
+      - name: Track big-name citing papers
+        run: python scripts/track_big_name_citations.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update academic citation metrics"
