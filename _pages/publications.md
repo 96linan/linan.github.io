@@ -8,9 +8,11 @@ author_profile: true
 
 <div markdown="1" style="text-align: justify;">
 ## Authored Book/Chapter
-1. **Li Nan**, Ma Lianbo, Qian Yuhua, Xue Bing, Zhang Mengjie. Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications[M]. Singapore:Springer, Hardcover ISBN:978-981-95-9154-1,2026. (<span style="color:purple">The first academic monograph on performance predictors in evolutionary neural architecture search</span>)
+  
+1. **Nan Li**, Lianbo Ma, Yuhua Qian, Bing Xue, Mengjie Zhang. Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications[M]. Singapore:Springer, Hardcover ISBN:978-981-95-9154-1,2026. (<span style="color:purple">The first academic monograph on performance predictors in evolutionary neural architecture search</span>)
 
 ## English Journal Papers
+
 1. Qian Guo, Quanchen Su, Xinyan Liang, Yuhua Qian, **Nan Li**, Zhihua Cui, “Multi-Branch Tree-based Fusion Neural Architecture Search with Zero-Cost Screen for Multi-Modal Classification,” *IEEE Transactions on Image Processing*, 2026, doi: 10.1109/TIP.2026.3706305.
 2. Xingsi Xue, Syed Muhammad Waqas, Mohammed J.F. Alenazi, Saru Kumari, Chien-Ming Chen, and **Nan Li**+, “Addressing missing-modality data quality issues in multimodal remote sensing via automated encoder architecture search,” *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2026, doi: 10.1109/JSTARS.2026.3693287.
 3. **Nan Li**, Bing Xue, Qi Chen, Lianbo Ma, Xingwei Wang, Min Huang, and Mengjie Zhang, “Evolutionary zero-shot proxy in various evaluation scenarios: A symbolic learning perspective,” *IEEE Transactions on Evolutionary Computation*, early access, 2026, doi: 10.1109/TEVC.2026.3680503.
