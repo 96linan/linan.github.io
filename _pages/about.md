@@ -64,12 +64,13 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 
 <div style="max-height:220px; overflow-y:auto; padding-right:8px;"> 
   <ul> 
-    <li>One paper about MTL is accepted by <span style="color:red">ACM MM-2026</span>. Congratulations to Yayu and Jinlong</li> 
-    <li>One paper about MPQ is accepted by <span style="color:red">ICML-2025</span>. Congratulations to Yonghui</li> 
+    <li>I am invited to be Organizing Committee of <span style="color:red">GPEML-2026</span>.</li> 
+    <li>One paper about MTL is accepted by <span style="color:red">ACM MM-2026</span>. Congratulations to Yayu and Jinlong!</li> 
+    <li>One paper about MPQ is accepted by <span style="color:red">ICML-2025</span>. Congratulations to Yonghui!</li> 
     <li>Nan Li is invited as <span style="color:red"> AE of Complex & Intelligent Systems (SCI Q1)</span>.</li>
     <li>Our work about Symbolic Regression for Predictor is accepted by <span style="color:red">TEVC</span>. </li> 
-    <li>Four papers are accepted by <span style="color:red">IJCNN-2026</span>. Congratulations to the four outstanding undergraduates</li> 
-    <li>Our book about Performance Predictor in ENAS is published by <span style="color:red">Springer</span>. This is the first monograph on performance predictors in the ENAS field</li> 
+    <li>Four papers are accepted by <span style="color:red">IJCNN-2026</span>. Congratulations to the four outstanding undergraduates!</li> 
+    <li>Our book about Performance Predictor in ENAS is published by <span style="color:red">Springer</span>. This is the first monograph on performance predictors in the ENAS field!</li> 
     <li>Our work about Performance Predictor for GFNAS is accepted by <span style="color:red">TEVC</span>. Congratulations to Aohan!</li> 
     <li>Our work about Generalizable MPQ is accepted by <span style="color:red">NeurIPS-2025</span>.</li> 
     <li>One work about Performance Predictor for ENAS becomes <span style="color:red">ESI Highly Cited Paper</span>.</li> 
