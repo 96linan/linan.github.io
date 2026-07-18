@@ -62,17 +62,17 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 
 ## 📢 News
 
-<link rel="stylesheet" href="assets/css/publication-stats.css">
+<link rel="stylesheet" href="/linan.github.io/assets/css/publication-stats.css">
 
 <div
   class="publication-stats"
   data-publication-stats
-  data-journals-url="publications/"
-  data-conferences-url="publications-c/"
+  data-journals-url="/linan.github.io/publications/"
+  data-conferences-url="/linan.github.io/publications-c/"
   aria-label="Publication statistics"
   aria-live="polite"
 >
-  <a class="publication-stat publication-stat--total" href="publications/">
+  <a class="publication-stat publication-stat--total" href="/linan.github.io/publications/">
     <span class="publication-stat__icon" aria-hidden="true">∑</span>
     <span class="publication-stat__content">
       <span class="publication-stat__value" data-stat="total">–</span>
@@ -95,7 +95,7 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
   </span>
 </div>
 
-<script defer src="assets/js/publication-stats.js"></script>
+<script defer src="/linan.github.io/assets/js/publication-stats.js"></script>
 
 <div style="max-height:220px; overflow-y:auto; padding-right:8px;"> 
   <ul> 
