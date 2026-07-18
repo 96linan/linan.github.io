@@ -1,9 +1,9 @@
 .publication-stats {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(3, max-content);
   gap: 0.55rem;
   margin: -2.82rem 0 0.72rem 7.5rem;
-  max-width: 32rem;
+  max-width: none;
 }
 
 .publication-stat {
@@ -11,7 +11,7 @@
   display: flex;
   align-items: center;
   min-width: 0;
-  padding: 4px 10px;
+  padding: 7px 10px;
   border: 1px solid rgba(148, 163, 184, 0.28);
   border-radius: 11px;
   background: linear-gradient(145deg, rgba(255, 255, 255, 0.96), rgba(248, 250, 252, 0.88));
