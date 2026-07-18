@@ -101,7 +101,7 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
   <ul> 
     <li>I am invited to be Organizing Committee of <span style="color:red">GPEML-2026</span>.</li> 
     <li>One paper about MTL is accepted by <span style="color:red">ACM MM-2026</span>. Congratulations to Yayu and Jinlong!</li> 
-    <li>One paper about MPQ is accepted by <span style="color:red">ICML-2025</span>. Congratulations to Yonghui!</li> 
+    <li>One paper about MPQ is accepted by <span style="color:red">ICML-2026</span>. Congratulations to Yonghui!</li> 
     <li>Nan Li is invited as <span style="color:red"> AE of Complex & Intelligent Systems (SCI Q1)</span>.</li>
     <li>Our work about Symbolic Regression for Predictor is accepted by <span style="color:red">TEVC</span>. </li> 
     <li>Four papers are accepted by <span style="color:red">IJCNN-2026</span>. Congratulations to the four outstanding undergraduates!</li> 
