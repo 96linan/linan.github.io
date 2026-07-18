@@ -62,7 +62,7 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 
 ## 📢 News
 
-<link rel="stylesheet" href="/linan.github.io/assets/css/publication-stats.css?v=20260718-2">
+<link rel="stylesheet" href="/linan.github.io/assets/css/publication-stats.css?v=20260718-3">
 
 <div
   class="publication-stats"
