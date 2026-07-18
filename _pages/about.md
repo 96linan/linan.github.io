@@ -62,17 +62,17 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 
 ## 📢 News
 
-<link rel="stylesheet" href="{{ '/assets/css/publication-stats.css' | relative_url }}">
+<link rel="stylesheet" href="{{ base_path }}/assets/css/publication-stats.css">
 
 <div
   class="publication-stats"
   data-publication-stats
-  data-journals-url="{{ '/publications/' | relative_url }}"
-  data-conferences-url="{{ '/publications-c/' | relative_url }}"
+  data-journals-url="{{ base_path }}/publications/"
+  data-conferences-url="{{ base_path }}/publications-c/"
   aria-label="Publication statistics"
   aria-live="polite"
 >
-  <a class="publication-stat publication-stat--total" href="{{ '/publications/' | relative_url }}">
+  <a class="publication-stat publication-stat--total" href="{{ base_path }}/publications/">
     <span class="publication-stat__icon" aria-hidden="true">∑</span>
     <span class="publication-stat__content">
       <span class="publication-stat__value" data-stat="total">–</span>
@@ -95,7 +95,7 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
   </span>
 </div>
 
-<script defer src="{{ '/assets/js/publication-stats.js' | relative_url }}"></script>
+<script defer src="{{ base_path }}/assets/js/publication-stats.js"></script>
 
 <div style="max-height:220px; overflow-y:auto; padding-right:8px;"> 
   <ul> 
