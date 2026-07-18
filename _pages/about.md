@@ -62,7 +62,7 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 
 ## 📢 News
 
-<link rel="stylesheet" href="/linan.github.io/assets/css/publication-stats.css?v=20260718-5">
+<link rel="stylesheet" href="/linan.github.io/assets/css/publication-stats.css?v=20260718-6">
 
 <div
   class="publication-stats"
@@ -72,21 +72,21 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
   aria-label="Publication statistics"
   aria-live="polite"
 >
-  <a class="publication-stat publication-stat--total" href="/linan.github.io/publications/">
+  <a class="publication-stat publication-stat--total" href="/linan.github.io/publications/" title="Total publications">
     <span class="publication-stat__icon" aria-hidden="true">∑</span>
     <span class="publication-stat__content">
       <span class="publication-stat__value" data-stat="total">–</span>
       <span class="publication-stat__label">Total</span>
     </span>
   </a>
-  <span class="publication-stat publication-stat--first">
+  <span class="publication-stat publication-stat--first" title="First-author publications">
     <span class="publication-stat__icon" aria-hidden="true">1st</span>
     <span class="publication-stat__content">
       <span class="publication-stat__value" data-stat="first">–</span>
       <span class="publication-stat__label">First-author</span>
     </span>
   </span>
-  <span class="publication-stat publication-stat--corresponding">
+  <span class="publication-stat publication-stat--corresponding" title="Corresponding-author publications">
     <span class="publication-stat__icon" aria-hidden="true">✉</span>
     <span class="publication-stat__content">
       <span class="publication-stat__value" data-stat="corresponding">–</span>
