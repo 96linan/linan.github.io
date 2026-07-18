@@ -11,9 +11,9 @@
   display: flex;
   align-items: center;
   min-width: 0;
-  padding: 0.36rem 0.62rem;
+  padding: 4px 10px;
   border: 1px solid rgba(148, 163, 184, 0.28);
-  border-radius: 0.72rem;
+  border-radius: 11px;
   background: linear-gradient(145deg, rgba(255, 255, 255, 0.96), rgba(248, 250, 252, 0.88));
   box-shadow: 0 3px 12px rgba(15, 23, 42, 0.06);
   color: inherit;
@@ -32,15 +32,15 @@ a.publication-stat:hover {
 
 .publication-stat__icon {
   display: grid;
-  flex: 0 0 1.65rem;
-  width: 1.65rem;
-  height: 1.65rem;
-  margin-right: 0.5rem;
+  flex: 0 0 28px;
+  width: 28px;
+  height: 28px;
+  margin-right: 8px;
   place-items: center;
-  border-radius: 0.52rem;
+  border-radius: 8px;
   background: color-mix(in srgb, var(--stat-accent) 11%, transparent);
   color: var(--stat-accent);
-  font-size: 0.62rem;
+  font-size: 11px;
   font-weight: 800;
 }
 
@@ -53,16 +53,16 @@ a.publication-stat:hover {
 
 .publication-stat__value {
   color: var(--stat-accent);
-  font-size: 1.05rem;
+  font-size: 18px;
   font-variant-numeric: tabular-nums;
   font-weight: 750;
 }
 
 .publication-stat__label {
-  margin-top: 0.12rem;
+  margin-top: 1px;
   overflow: hidden;
   color: #64748b;
-  font-size: 0.6rem;
+  font-size: 10.5px;
   font-weight: 600;
   letter-spacing: 0.01em;
   text-overflow: ellipsis;
