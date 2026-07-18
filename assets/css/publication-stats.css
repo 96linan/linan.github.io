@@ -1,6 +1,6 @@
 .publication-stats {
   display: grid;
-  grid-template-columns: repeat(3, max-content);
+  grid-template-columns: repeat(3, 76px);
   gap: 0.55rem;
   margin: -2.82rem 0 0.72rem 7.5rem;
   max-width: none;
@@ -10,6 +10,7 @@
 .publication-stat {
   --stat-accent: #2563eb;
   display: flex;
+  box-sizing: border-box;
   align-items: center;
   min-width: 0;
   padding: 7px 10px;
@@ -60,6 +61,7 @@ a.publication-stat:hover {
 }
 
 .publication-stat__label {
+  display: none;
   margin-top: 1px;
   overflow: hidden;
   color: #64748b;
