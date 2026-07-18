@@ -11,6 +11,10 @@ author_profile: true
   
 1. **Nan Li**, Lianbo Ma, Yuhua Qian, Bing Xue, Mengjie Zhang. Performance Predictor in Evolutionary Neural Architecture Search: Methods and Applications[M]. Singapore:Springer, Hardcover ISBN:978-981-95-9154-1,2026. (<span style="color:purple">The first academic monograph on performance predictors in evolutionary neural architecture search</span>)
 
+</div>
+
+<div markdown="1" style="text-align: justify;" data-publication-list="journals">
+
 ## English Journal Papers
 
 1. Qian Guo, Quanchen Su, Xinyan Liang, Yuhua Qian, **Nan Li**, Zhihua Cui, “Multi-Branch Tree-based Fusion Neural Architecture Search with Zero-Cost Screen for Multi-Modal Classification,” *IEEE Transactions on Image Processing*, 2026, doi: 10.1109/TIP.2026.3706305.

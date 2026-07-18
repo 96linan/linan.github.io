@@ -62,6 +62,41 @@ He currently serves as Associate Editor of <em>Complex & Intelligent Systems</em
 
 ## 📢 News
 
+<link rel="stylesheet" href="{{ '/assets/css/publication-stats.css' | relative_url }}">
+
+<div
+  class="publication-stats"
+  data-publication-stats
+  data-journals-url="{{ '/publications/' | relative_url }}"
+  data-conferences-url="{{ '/publications-c/' | relative_url }}"
+  aria-label="Publication statistics"
+  aria-live="polite"
+>
+  <a class="publication-stat publication-stat--total" href="{{ '/publications/' | relative_url }}">
+    <span class="publication-stat__icon" aria-hidden="true">∑</span>
+    <span class="publication-stat__content">
+      <span class="publication-stat__value" data-stat="total">–</span>
+      <span class="publication-stat__label">Total</span>
+    </span>
+  </a>
+  <span class="publication-stat publication-stat--first">
+    <span class="publication-stat__icon" aria-hidden="true">1st</span>
+    <span class="publication-stat__content">
+      <span class="publication-stat__value" data-stat="first">–</span>
+      <span class="publication-stat__label">First-author</span>
+    </span>
+  </span>
+  <span class="publication-stat publication-stat--corresponding">
+    <span class="publication-stat__icon" aria-hidden="true">✉</span>
+    <span class="publication-stat__content">
+      <span class="publication-stat__value" data-stat="corresponding">–</span>
+      <span class="publication-stat__label">Corresponding</span>
+    </span>
+  </span>
+</div>
+
+<script defer src="{{ '/assets/js/publication-stats.js' | relative_url }}"></script>
+
 <div style="max-height:220px; overflow-y:auto; padding-right:8px;"> 
   <ul> 
     <li>I am invited to be Organizing Committee of <span style="color:red">GPEML-2026</span>.</li> 

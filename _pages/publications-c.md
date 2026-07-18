@@ -7,7 +7,7 @@ author_profile: true
 
 + Corresponding author; # Equal contribution
 
-<div markdown="1" style="text-align: justify;">
+<div markdown="1" style="text-align: justify;" data-publication-list="conferences">
 
 1. Yayu Zhang, Jinlong Zuo, Yuhua Qian, Jixian Li, **Nan Li**. Unleashing the Power of CLIP as a General Teacher for Multi-Task Learning [C]// ACM International Conference on Multimedia (ACM MM), 2026. (CCF-A)
 
