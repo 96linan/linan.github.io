@@ -4,6 +4,7 @@
   gap: 0.55rem;
   margin: -2.82rem 0 0.72rem 7.5rem;
   max-width: none;
+  transform: translateY(-7px);
 }
 
 .publication-stat {
@@ -86,6 +87,7 @@ a.publication-stat:hover {
   .publication-stats {
     margin: 0.15rem 0 1rem;
     max-width: none;
+    transform: none;
   }
 }
 
