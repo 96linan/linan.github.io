@@ -5,30 +5,6 @@ permalink: /services/
 author_profile: true
 ---
 
-
-## 部分期刊/会议审稿人
-### 期刊
-<div style="max-height:220px; overflow-y:auto; padding-right:8px;"> 
-  <ul> 
-    <li>IEEE Transactions on Evolutionary Computation</li>
-    <li>IEEE Transactions on Fuzzy Systems</li>
-    <li>IEEE Transactions on Neural Networks and Learning Systems</li>
-    <li>IEEE Transactions on Cybernetics</li>
-    <li>IEEE Transactions on Artificial Intelligence</li>
-    <li>IEEE Transactions on Intelligent Transportation Systems</li>
-    <li>IEEE Transactions on Consumer Electronics</li>
-    <li>IEEE Computational Intelligence Magazine</li>
-  </ul> 
-</div>
-
-### 会议
-* ICML
-* CVPR
-* ICLR
-* NeurIPS
-* AAAI
-* ECCV
-
 ## 其它学术兼职
 <div style="max-height:220px; overflow-y:auto; padding-right:8px;"> 
   <ul> 
@@ -56,3 +32,23 @@ author_profile: true
 <li>中国计算机学会（CCF）会员 (2025)</li>
   </ul> 
 </div>
+
+## 部分期刊/会议审稿人
+### 期刊
+<div style="max-height:220px; overflow-y:auto; padding-right:8px;"> 
+  <ul> 
+    <li>IEEE Transactions on Evolutionary Computation</li>
+    <li>IEEE Transactions on Fuzzy Systems</li>
+    <li>IEEE Transactions on Neural Networks and Learning Systems</li>
+    <li>IEEE Transactions on Cybernetics</li>
+    <li>IEEE Transactions on Artificial Intelligence</li>
+    <li>IEEE Transactions on Intelligent Transportation Systems</li>
+    <li>IEEE Transactions on Consumer Electronics</li>
+    <li>IEEE Computational Intelligence Magazine</li>
+  </ul> 
+</div>
+
+### 会议
+ICML, CVPR, ICLR, NeurIPS, AAAI, ECCV, etc.
+
+
