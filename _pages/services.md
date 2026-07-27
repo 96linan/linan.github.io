@@ -8,6 +8,7 @@ author_profile: true
 ## 其它学术兼职
 <div style="max-height:220px; overflow-y:auto; padding-right:8px;"> 
   <ul> 
+  <li>山西云时代技术有限公司（山西太行实验室有限公司）柔性引进人才（2026-2027）</li> 
 <li>Organizing Committee of GPEML-2026</li> 
 <li>IEEE CIS (计算智能学会) Member (2026)</li> 
 <li>中国自动化学会计算智能及其应用专业委员会委员 (2026)</li> 
