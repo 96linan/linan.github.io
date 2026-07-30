@@ -17,7 +17,7 @@ author_profile: true
 
 ## English Journal Papers
 
-1. Xingsi Xue, Shuwen Lin, 	Jinhao Liang, Saru Kumari, Maazen Alsabaan, and **Nan Li**+, “LLM-Enhanced Architecture Design for Lightweight Small-Object Detection in Low-Altitude Remote Sensing,” *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2026, doi: 10.1109/JSTARS-2026-02971.
+1. Xingsi Xue, Shuwen Lin, 	Jinhao Liang, Saru Kumari, Maazen Alsabaan, and **Nan Li**+, “LLM-Enhanced Architecture Design for Lightweight Small-Object Detection in Low-Altitude Remote Sensing,” *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2026, doi: 10.1109/JSTARS.2026.3719281.
 2. Qiuhao Wang, Yuexiao Wang, Aohan Mei, Tian Zhang, **Nan Li**+, “Hierarchical Enzyme Function Prediction Based on Structural Confidence and Active-Site-Aware Attention,” *AI Medicine*, 2026.
 3. Xinyi Yuan, Sisi Chen, Boran Hu, Yikang Zhou, Aohan Mei, **Nan Li**+, “Open-Set Semiconductor Defect Classification in SEM Images via Uncertainty-Aware Local Prototype Alignment,” *AI Engineering*, 2026.
 4. Qian Guo, Quanchen Su, Xinyan Liang, Yuhua Qian, **Nan Li**, Zhihua Cui, “Multi-Branch Tree-based Fusion Neural Architecture Search with Zero-Cost Screen for Multi-Modal Classification,” *IEEE Transactions on Image Processing*, 2026, doi: 10.1109/TIP.2026.3706305.
