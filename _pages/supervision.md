@@ -16,8 +16,8 @@ author_profile: true
 
 ### 本科生
 * 2025级, 王秋皓 (山西大学), [AI Medicine+1]
-* 2024级, 袁心怡 (山西大学), [IJCNN+1, AI Engineering+1]
+* 2024级, 袁心怡 (山西大学), [IJCNN+1, AI Engineering+1][GPEML-2026参会]
 * 2024级, 周怡康 (山西大学), [IJCNN+1]
-* 2024级, 陈思思 (山西大学), [IJCNN+1]
-* 2024级, 胡博然 (山西大学), [IJCNN+1 (<span style="color:red">最佳学生论文提名)</span>]
+* 2024级, 陈思思 (山西大学), [IJCNN+1][DOCS-2026参会]
+* 2024级, 胡博然 (山西大学), [IJCNN+1 (<span style="color:red">最佳学生论文提名)</span>][DOCS-2026参会]
 
