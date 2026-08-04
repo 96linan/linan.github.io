@@ -20,7 +20,7 @@ author_profile: true
 
 6. Yikang Zhou, **Nan Li**+, Ruwang Jiao. Adaptive Bi-Directional Asymmetric Flip and Multi-Criteria Knowledge Transfer Strategy in Multitask Framework for High-Dimensional Feature Selection [C]// International Joint Conference on Neural Networks (IJCNN), 2026. (CCF-C)
 
-7. **Nan Li**, Yonghui Su, Lianbo Ma. Efficient and Generalizable Mixed-Precision Quantization via Topological Entropy [C]// Annual Conference on Neural Information Processing Systems (NeurIPS), 2026. (CCF-A)
+7. **Nan Li**, Yonghui Su, Lianbo Ma. Efficient and Generalizable Mixed-Precision Quantization via Topological Entropy [C]// Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A)
 
 8. **Nan Li**, Bing Xue, Lianbo Ma, Mengjie Zhang. Transferable Relativistic Predictor: Mitigating Cross-Task Cold-Start Issue in NAS [C]// International Joint Conference on Artificial Intelligence (IJCAI), 2025. (CCF-A)
 
