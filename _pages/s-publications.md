@@ -5,7 +5,7 @@ permalink: /s-publications/
 author_profile: true
 ---
 
-* Corresponding author; # Equal contribution
++indicating the corresponding author/#indicating the equal contribution
 
 <div markdown="1" style="text-align: justify;">
 
